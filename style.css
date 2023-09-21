@@ -51,6 +51,10 @@ select {
     border: 1.5px solid;
 }
 
+select:invalid {
+    color: rgb(176, 166, 166);
+}
+
 select:hover{
     border-color: rgb(226, 94, 0);
 }
