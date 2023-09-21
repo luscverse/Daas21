@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-color: rgb(226, 94, 0);
+    background-image: linear-gradient(#FF8C00, #FFA500);
     display: flex;
     align-items: center;
     flex-direction: column;
