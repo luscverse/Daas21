@@ -52,7 +52,7 @@ input {
     border: 1.5px solid rgb(176, 166, 166);
 }
 
-input:hover{
+input:hover {
     border-color: rgb(226, 94, 0);
 }
 
