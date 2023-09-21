@@ -43,6 +43,19 @@ h3 {
     max-width: 600px;
 }
 
+
+input {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    width: 96.8%;
+    border: 1.5px solid rgb(176, 166, 166);
+}
+
+input:hover{
+    border-color: rgb(226, 94, 0);
+}
+
 select {
     margin-top: 10px;
     padding: 10px;
